@@ -1,0 +1,83 @@
+.button {
+  display: inline-block;
+  height: auto;
+  padding: 0.8rem 2rem;
+  border: 2px solid transparent;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 1.6rem;
+  text-decoration: none;
+  text-transform: capitalize;
+  cursor: pointer;
+  overflow: hidden;
+  transition: opacity 0.4s;
+  &__select {
+    color: var(--black-2);
+    font-family: Poppins;
+    padding: 1rem;
+    border: none;
+    background-color: var(--bg-3);
+
+    width: 150px;
+    cursor: pointer;
+  }
+  &:hover {
+    opacity: 60%;
+  }
+}
+.button--primary {
+  background-color: var(--primaryPurple);
+  color: var(--white);
+}
+.button--secondary {
+  background-color: var(--bg-3);
+  color: var(--white);
+}
+.button--color-1 {
+  background-color: var(--color-1);
+  margin-right: 16px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+  border-radius: 20px;
+  padding: 10px 10px;
+}
+.button--color-2 {
+  background-color: var(--color-2);
+  margin-right: 16px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+  border-radius: 20px;
+  padding: 10px 10px;
+}
+.button--color-3 {
+  background-color: var(--color-3);
+  margin-right: 16px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+  border-radius: 20px;
+  padding: 10px 10px;
+}
+.button--color-4 {
+  background-color: var(--color-4);
+  margin-right: 16px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+  border-radius: 20px;
+  padding: 10px 10px;
+}
+.button--color-5 {
+  background-color: var(--color-5);
+  margin-top: 10px;
+  margin-bottom: 8px;
+  border-radius: 20px;
+  padding: 10px 10px;
+}
+.button--selected {
+  opacity: 1;
+  border-color: white;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
