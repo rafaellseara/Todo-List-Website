@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { MdDelete, MdEdit } from 'react-icons/md';
 import { useDispatch } from 'react-redux';
 import { motion } from 'framer-motion';
-import toast, { CheckmarkIcon } from 'react-hot-toast';
+import toast from 'react-hot-toast';
 import { deleteTodo, updateTodo } from '../slices/todoSlice';
 import styles from '../styles/modules/todoItem.module.scss';
 import { getClasses } from '../utils/getClasses';
