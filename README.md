@@ -2,7 +2,7 @@
 
 This Todo List website is a simple yet powerful tool designed to help users organize their tasks effectively. Leveraging the dynamic capabilities of JavaScript, the sleek design of Tailwind CSS, and the interactivity of React, this application provides an intuitive and efficient task management experience.
 
-**live demo:** https://todo-app-by-rs.netlify.app/
+**Live Demo:** https://todo-app-by-rs.netlify.app/
 
 ---
 
