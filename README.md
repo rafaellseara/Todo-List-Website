@@ -7,6 +7,7 @@ This Todo List website is a simple yet powerful tool designed to help users orga
 ---
 
 ##Getting Started
+
 To get started with the Todo list App, follow these steps:
 
 -Clone the Repository: Clone the repository to your local machine using Git.
