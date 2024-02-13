@@ -19,3 +19,9 @@ To get started with the Todo list App, follow these steps:
 - Start the Development Server: Launch the development server using `npm start`.
 
 - Open in Browser: Open the website in your preferred web browser by navigating to localhost:3000.
+
+---
+
+**Acknowledgments:**
+
+Special thanks to [Shaif Arfan](https://github.com/ShaifArfan) for their invaluable assistance and guidance throughout this project, drawing from their insightful tutorial.
